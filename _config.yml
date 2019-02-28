@@ -15,8 +15,7 @@ defaults:
     values:
       layout: "post"
 
-personal:
-  - linkedin: https://linkedin.com
+linkedin: https://linkedin.com
 
 worked:
   - name: Oregon Career Information System

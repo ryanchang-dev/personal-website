@@ -34,11 +34,11 @@
         {{ user.location }}
       </div>
     {% endif %}
-    {% if personal.linkedin %}
+    {% if linkedin %}
     <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
       {% octicon link height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:LinkedIn %}
-      <a href="{{ personal.linkedin }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-        {{ personal.linkedin }}
+      <a href="{{ linkedin }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+        {{ linkedin }}
       </a>
     </div>
   {% endif %}
