@@ -15,20 +15,23 @@ defaults:
     values:
       layout: "post"
 
-topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+personal:
+  - linkedin: https://linkedin.com
 
 worked:
   - name: Oregon Career Information System
     web_url: https://oregoncis.uoregon.edu
-    description: Oregon CIS
+    description: The Oregon Career Information System (CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education.
 
   - name: Actively Learning
+    web_url: https://activelylearning.org
+    description: Actively Learning is the data collection app for a federally funded research project to measure Grit in students at Cal Poly, San Luis Obispo.
+
+topics:
+  - name: VMware vSphere
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+  - name: Windows Media Center
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
