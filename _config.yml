@@ -20,10 +20,12 @@ linkedin: https://www.linkedin.com/in/ryanmchang
 worked:
   - name: Oregon Career Information System
     web_url: https://oregoncis.uoregon.edu
+    image_url: /assets/images/CIS.png
     description: The Oregon Career Information System (CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education.
 
   - name: Actively Learning
     web_url: https://activelylearning.org
+    image_url: /assets/images/AL.png
     description: Actively Learning is the data collection app for a federally funded research project to measure Grit in students at Cal Poly, San Luis Obispo.
 
 topics:
