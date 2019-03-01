@@ -30,9 +30,10 @@ worked:
 
 topics:
   - name: VMware vSphere
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: /assets/images/vsphere.png
+    description: In my free time, I enjoy learning about and practicing system administration functions at home. Virtualization and VMware ESXi is the foundation of my home "datacenter". Virtualization allows me to rapidly experiment with new technologies and develop methods to apply the technologies at work.
 
   - name: Windows Media Center
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: https://thegreenbutton.tv
+    image_url: /assets/images/wmc.png
+    description: I seem to spend more time maintaining and improving my DVR system, which is built on Windows Media Center. I'm continually researching other ways to watch television, such as Plex/Emby and Android TV.
