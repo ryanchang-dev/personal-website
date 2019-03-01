@@ -26,7 +26,7 @@ worked:
   - name: Actively Learning
     web_url: https://activelylearning.org
     image_url: /assets/images/AL.png
-    description: Actively Learning is the data collection app for a federally funded research project to examine the correlation of active learning with grit growth and student success and retention in students at Cal Poly, San Luis Obispo. I developed the Android app and app backend. The app backend is based on the open-source Parse Platform. Another developer developed the iOS app, and I took over its continued development and maintenance after the initial version was completed.<br/><br/>Actively Learning uses Java and the Android SDK, Swift, Parse Platform, and NodeJS.
+    description: Actively Learning is the data collection app for a federally funded research project to examine the correlation of active learning with grit growth and student success and retention in engineering students at Cal Poly, San Luis Obispo. I developed the Android app and app backend. The app backend is based on the open-source Parse Platform. Another developer developed the iOS app, and I took over its continued development and maintenance after the initial version was completed.<br/><br/>Actively Learning uses Java and the Android SDK, Swift, Parse Platform, and NodeJS.
 
 topics:
   - name: VMware vSphere
