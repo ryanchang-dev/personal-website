@@ -16,6 +16,7 @@ defaults:
       layout: "post"
 
 linkedin: https://www.linkedin.com/in/ryanmchang
+location: https://goo.gl/maps/d9y5TrpMXi82
 
 worked:
   - name: Oregon Career Information System
