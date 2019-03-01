@@ -21,14 +21,12 @@ worked:
   - name: Oregon Career Information System
     web_url: https://oregoncis.uoregon.edu
     image_url: /assets/images/CIS.png
-    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.
-    Oregon CIS uses C# and ASP.NET, HTML5, CSS, JavaScript, and TeamCity CI along with Gulp.
+    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.<br/><br/>Oregon CIS uses C# and ASP.NET, HTML5, CSS, JavaScript, and TeamCity CI along with Gulp.
 
   - name: Actively Learning
     web_url: https://activelylearning.org
     image_url: /assets/images/AL.png
-    description: Actively Learning is the data collection app for a federally funded research project to examine the correlation of active learning with grit growth and student success and retention in students at Cal Poly, San Luis Obispo. I developed the Android app and app backend. The app backend is based on the open-source Parse Platform. Another developer developed the iOS app, and I took over its continued development and maintenance after the initial version was completed.
-    Actively Learning uses Java and the Android SDK, Swift, Parse Platform, and NodeJS.
+    description: Actively Learning is the data collection app for a federally funded research project to examine the correlation of active learning with grit growth and student success and retention in students at Cal Poly, San Luis Obispo. I developed the Android app and app backend. The app backend is based on the open-source Parse Platform. Another developer developed the iOS app, and I took over its continued development and maintenance after the initial version was completed.<br/><br/>Actively Learning uses Java and the Android SDK, Swift, Parse Platform, and NodeJS.
 
 topics:
   - name: VMware vSphere
