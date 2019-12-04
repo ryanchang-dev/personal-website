@@ -42,3 +42,7 @@ topics:
   - name: Apple
     image_url: /assets/images/apple.png
     description: When I was younger, I was very good at troubleshooting and repairing Mac computers. While I don't repair computers anymore, I still follow Apple closely and enjoy using Apple products. It's interesting how I'm currently a C#/ASP.NET and Android developer after being an Apple fan for so long. 
+
+publications:
+  - web_url: /assets/pdf/activelylearningapp.pdf
+    description: David S. Janzen, Ryan Chang, John Chen, <b>Development of mobile applications to study engineering students' patterns of learning</b>, <i>Frontiers in Education 2019</i>, Cincinnati, OH, October 2019.
