@@ -16,20 +16,24 @@ defaults:
     values:
       layout: "post"
 
-linkedin: https://www.linkedin.com/in/ryanmchang
 location: https://goo.gl/maps/d9y5TrpMXi82
 
 worked:
   - name: Oregon Career Information System
     web_url: https://oregoncis.uoregon.edu
     image_url: /assets/images/CIS.png
-    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.<br/><br/>Oregon CIS uses C# and ASP.NET, HTML5, CSS, JavaScript, and TeamCity CI along with Gulp.
+    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT. I was principally in charge of a full front-end redesign of the entire system, which took 3 months and left no page untouched with thousands of pages re-styled. The previous design was centered around a complicated "mega-menu" that was hard to navigate on desktop and difficult to use on mobile devices and tablets. With the redesign, Oregon CIS was transformed into a modern, responsive system that functions well on mobile devices and tablets. <br/><br/>Oregon CIS uses C# and ASP.NET, MS SQL Server, Zurb Foundation, a lot of JavaScript, and TeamCity CI along with Gulp.
 
-  - name: Actively Learning
+  - name: "Does Active Learning Build Grit?"
     web_url: https://activelylearning.org
     image_url: /assets/images/AL.png
-    description: Actively Learning is the data collection app for a federally funded research project to examine the correlation of active learning with grit growth and student success and retention in engineering students at Cal Poly, San Luis Obispo. I developed the Android app and app backend. The app backend is based on the open-source Parse Platform. Another developer developed the iOS app, and I took over its continued development and maintenance after the initial version was completed.<br/><br/>Actively Learning uses Java and the Android SDK, Swift, Parse Platform, and NodeJS.
-# projects:
+    description: Actively Learning is the data collection app for an NSF funded research project to examine the correlation between "active learning" in and out of the classroom with student success and retention in engineering students at Cal Poly, San Luis Obispo. I developed the Android app, iOS app, and app backend. I also performed continuous data and server maintenance through the life of the project. Recently, I migrated the backend systems to Docker, not necessarily for scalability, but for ease of server maintenance.<br/><br/>Actively Learning uses the Android and iOS SDKs, Parse Platform, JavaScript, NodeJS, and Docker.
+
+  - name: Drupal Consulting
+    web_url: https://www.drupal.org/
+    image_url: /assets/images/drupal-icon.png
+    description: One of my first summer internships was developing a Drupal-based website for a small company. Since then, I'm happy to have offered Drupal consulting services to several more clients. I've worked closely with clients to design full front-ends, select and customize add-ons to fit their special requirements, and make sure their content looks just the way they want. Additionally, I've performed ongoing Drupal server maintenance and support as needed.
+    # projects:
 #   sort_by: pushed
   # sort_by options:
   #   - pushed
@@ -60,18 +64,17 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: VMware vSphere
+  - name: VMware vSphere/ESXi
     image_url: /assets/images/vsphere.png
-    description: In my free time, I enjoy learning about and practicing system administration functions at home. Virtualization and VMware ESXi is the foundation of my home "datacenter". Virtualization allows me to rapidly experiment with new technologies and develop methods to apply the technologies at work.
+    description: In my free time, I enjoy developing my home “data center” which uses virtualization and VMware ESXi at its foundation. Through building this system, I’ve been able to rapidly experiment with new technologies, a skill I have then routinely applied to my professional work. Virtualization has been an incredible learning tool, and lately, I am particularly interested in Docker and its applications at home and work.
 
   - name: Windows Media Center
-    web_url: https://thegreenbutton.tv
     image_url: /assets/images/wmc.png
-    description: I seem to spend more time maintaining and improving my DVR system, which is built on Windows Media Center. The pursuit of the perfect DVR system is what initially got me into virtualization. I'm continually researching other ways to watch television, such as Plex/Emby and Android TV.
+    description: I love TV, but I don’t have time in my life for ads or bad interfaces. So once I realized that by learning virtualization I could transform Windows Media center into the almost perfect DVR system, I’ve been hungry to regularly maintain and improve my TV sanctuary. I'm continually exploring new platforms and products could get me closer to the golden egg of DVRs.
 
   - name: Apple
     image_url: /assets/images/apple.png
-    description: When I was younger, I was very good at troubleshooting and repairing Mac computers. While I don't repair computers anymore, I still follow Apple closely and enjoy using Apple products. It's interesting how I'm currently a C#/ASP.NET and Android developer after being an Apple fan for so long. 
+    description: As a child I developed a passion for troubleshooting and repairing Mac computers. While I don't repair computers these days, I’m still an avid fan of Apple in every industry they touch. Despite my rich personal history with the brand, I’m currently a C#/ASP.NET and Android developer. Life’s weird like that sometimes.
 
 publications:
   - web_url: /assets/pdf/activelylearningapp.pdf
