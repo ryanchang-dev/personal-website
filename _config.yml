@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: dark
 
 plugins:
@@ -22,12 +22,12 @@ worked:
   - name: Oregon Career Information System
     web_url: https://oregoncis.uoregon.edu
     image_url: /assets/images/CIS.png
-    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT. I was principally in charge of a full front-end redesign of the entire system, which took 3 months and left no page untouched with thousands of pages re-styled. The previous design was centered around a complicated "mega-menu" that was hard to navigate on desktop and difficult to use on mobile devices and tablets. With the redesign, Oregon CIS was transformed into a modern, responsive system that functions well on mobile devices and tablets. <br/><br/>Oregon CIS uses C# and ASP.NET, MS SQL Server, Zurb Foundation, a lot of JavaScript, and TeamCity CI along with Gulp.
+    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.<br/><br/>I was principally in charge of a full front-end redesign of the entire system, which took 3 months and left no page untouched with thousands of pages re-styled. The previous design was centered around a complicated "mega-menu" that was hard to navigate on desktop and difficult to use on mobile devices and tablets. With the redesign, Oregon CIS was transformed into a modern, responsive system that functions well on mobile devices and tablets. <br/><br/>Oregon CIS uses C# and ASP.NET, MS SQL Server, Zurb Foundation, a lot of HTML/CSS/JavaScript, and TeamCity CI along with Gulp.
 
   - name: "Does Active Learning Build Grit?"
     web_url: https://activelylearning.org
     image_url: /assets/images/AL.png
-    description: Actively Learning is the data collection app for an NSF funded research project to examine the correlation between "active learning" in and out of the classroom with student success and retention in engineering students at Cal Poly, San Luis Obispo. I developed the Android app, iOS app, and app backend. I also performed continuous data and server maintenance through the life of the project. Recently, I migrated the backend systems to Docker, not necessarily for scalability, but for ease of server maintenance.<br/><br/>Actively Learning uses the Android and iOS SDKs, Parse Platform, JavaScript, NodeJS, and Docker.
+    description: Actively Learning is the data collection app for an NSF funded research project to examine the correlation between "active learning" in and out of the classroom with student success and retention in engineering students at Cal Poly, San Luis Obispo. I developed the Android app, iOS app, and app backend systems. I also performed continuous data and server maintenance through the life of the project. Recently, I migrated the backend systems to Docker, not necessarily for scalability, but for ease of server maintenance.<br/><br/>Actively Learning uses the Android and iOS SDKs, Parse Platform, JavaScript, NodeJS, and Docker.
 
   - name: Drupal Consulting
     web_url: https://www.drupal.org/
@@ -66,7 +66,7 @@ social_media:
 topics:
   - name: VMware vSphere/ESXi
     image_url: /assets/images/vsphere.png
-    description: In my free time, I enjoy developing my home “data center” which uses virtualization and VMware ESXi at its foundation. Through building this system, I’ve been able to rapidly experiment with new technologies, a skill I have then routinely applied to my professional work. Virtualization has been an incredible learning tool, and lately, I am particularly interested in Docker and its applications at home and work.
+    description: In my free time, I enjoy developing my home "data center" which uses virtualization and VMware ESXi at its foundation. Through building this system, I’ve been able to rapidly experiment with new technologies, a skill I have then routinely applied to my professional work. Virtualization has been an incredible learning tool, and lately, I am particularly interested in Docker and its applications at home and work.
 
   - name: Windows Media Center
     image_url: /assets/images/wmc.png
