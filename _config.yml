@@ -22,7 +22,7 @@ worked:
   - name: Oregon Career Information System
     web_url: https://oregoncis.uoregon.edu
     image_url: /assets/images/CIS.png
-    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.<br/><br/>I was principally in charge of a full front-end redesign of the entire system, which took 3 months and left no page untouched with thousands of pages re-styled. The previous design was centered around a complicated "mega-menu" that was hard to navigate on desktop and difficult to use on mobile devices and tablets. With the redesign, Oregon CIS was transformed into a modern, responsive system that functions well on mobile devices and tablets. <br/><br/>Oregon CIS uses C# and ASP.NET, MS SQL Server, Zurb Foundation, a lot of HTML/CSS/JavaScript, and TeamCity CI along with Gulp.
+    description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.<br/><br/>I was principally in charge of a full front-end redesign of the entire system, which took 3 months and left no page untouched with thousands of pages re-styled. The previous design was centered around a complicated "mega-menu" that was hard to navigate on desktop and difficult to use on mobile devices and tablets. With the redesign, Oregon CIS was transformed into a modern, responsive system that functions well on mobile devices and tablets. <br/><br/>Another large feature I implemented is the Career Plan, where teachers can create a checklist and a common launching point for tasks students must complete in the system. The Career Plan automatically marks tasks complete for students and generates completion status reports for teachers. The Career Plan is used to track high school graduation requirements for thousands of Oregon students.<br /><br />Oregon CIS uses C# and ASP.NET, MS SQL Server, Zurb Foundation, a lot of HTML/CSS/JavaScript, and TeamCity CI along with Gulp.
 
   - name: "Does Active Learning Build Grit?"
     web_url: https://activelylearning.org
@@ -70,7 +70,7 @@ topics:
 
   - name: Windows Media Center
     image_url: /assets/images/wmc.png
-    description: I love TV, but I don’t have time in my life for ads or bad interfaces. So once I realized that by learning virtualization I could transform Windows Media center into the almost perfect DVR system, I’ve been hungry to regularly maintain and improve my TV sanctuary. I'm continually exploring new platforms and products could get me closer to the golden egg of DVRs.
+    description: I love TV, but I don’t have time in my life for ads or bad interfaces. So once I realized that by learning virtualization I could transform Windows Media center into the almost perfect DVR system, I’ve been hungry to regularly maintain and improve my TV system. I'm continually exploring new platforms and products could get me closer to the golden egg of DVRs.
 
   - name: Apple
     image_url: /assets/images/apple.png
