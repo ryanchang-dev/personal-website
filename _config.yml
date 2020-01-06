@@ -20,17 +20,17 @@ location: https://goo.gl/maps/d9y5TrpMXi82
 
 worked:
   - name: Oregon Career Information System
-    web_url: https://oregoncis.uoregon.edu
+    #web_url: https://oregoncis.uoregon.edu
     image_url: /assets/images/CIS.png
     description: The Oregon Career Information System (Oregon CIS) provides a system of occupational and educational information to help Oregonians learn about the world of work and education. I am part of a small team that is responsible for all aspects of development, including the front/back end, database design/maintenance, continuous integration, server maintenance, and general office IT.<br/><br/>I was principally in charge of a full front-end redesign of the entire system, which took 3 months and left no page untouched with thousands of pages re-styled. The previous design was centered around a complicated "mega-menu" that was hard to navigate on desktop and difficult to use on mobile devices and tablets. With the redesign, Oregon CIS was transformed into a modern, responsive system that functions well on mobile devices and tablets. <br/><br/>Another large feature I implemented is the Career Plan, where teachers can create a checklist and a common launching point for tasks students must complete in the system. The Career Plan automatically marks tasks complete for students and generates completion status reports for teachers. The Career Plan is used to track high school graduation requirements for thousands of Oregon students.<br /><br />Oregon CIS uses C# and ASP.NET, MS SQL Server, Zurb Foundation, a lot of HTML/CSS/JavaScript, and TeamCity CI along with Gulp.
 
   - name: "Does Active Learning Build Grit?"
-    web_url: https://activelylearning.org
+    #web_url: https://activelylearning.org
     image_url: /assets/images/AL.png
     description: Actively Learning is the data collection app for an NSF funded research project to examine the correlation between "active learning" in and out of the classroom with student success and retention in engineering students at Cal Poly, San Luis Obispo. I developed the Android app, iOS app, and app backend systems. I also performed continuous data and server maintenance through the life of the project. Recently, I migrated the backend systems to Docker, not necessarily for scalability, but for ease of server maintenance.<br/><br/>Actively Learning uses the Android and iOS SDKs, Parse Platform, JavaScript, NodeJS, and Docker.
 
   - name: Drupal Consulting
-    web_url: https://www.drupal.org/
+    #web_url: https://www.drupal.org/
     image_url: /assets/images/drupal-icon.png
     description: One of my first summer internships was developing a Drupal-based website for a small company. Since then, I'm happy to have offered Drupal consulting services to several more clients. I've worked closely with clients to design full front-ends, select and customize add-ons to fit their special requirements, and make sure their content looks just the way they want. Additionally, I've performed ongoing Drupal server maintenance and support as needed.
     # projects:
